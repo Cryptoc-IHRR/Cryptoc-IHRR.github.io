@@ -1,11 +1,11 @@
 # Site settings
-title: 小白 Blog
-SEOTitle: IHRR的博客 | IHRR Blog
+title: IHRR Blog
+SEOTitle: 小白的博客 | 小白 Blog
 header-img: img/home-bg.jpg
 email: wzx824030716@gmail.com
 description: "这里是 @小白 的个人博客，与你一起发现更大的世界 | 要做一个有 swag 的程序员"
 keyword: "技术小白, 加密爱好者, IHRR, 交易大师, 小白的博客, IHRR Blog, 博客, 个人网站, 互联网, Web, JavaScript, React, React Native,, 设计"
-url: "https://huangxuan.me" # your host, for absolute URL
+url: "https://th.wallhaven.cc/lg/5g/5ge715.jpg" # your host, for absolute URL
 baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
