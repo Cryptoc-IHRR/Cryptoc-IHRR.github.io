@@ -1,5 +1,5 @@
 我的个人微博网站
-[Hux Blog](https://huangxuan.me)
+[IHRR Blog](https://huangxuan.me)
 ================================
 
 > I never expected this to become popular.
